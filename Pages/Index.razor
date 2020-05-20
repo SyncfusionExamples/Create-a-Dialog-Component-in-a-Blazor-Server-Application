@@ -1,10 +1,13 @@
-﻿@page "/"
+@page "/"
 @using Syncfusion.Blazor.Popups 
 @using Syncfusion.Blazor.Buttons 
 
 <SfButton @onclick="@OnOpenBtnClick">Open Dialog</SfButton>
-<SfDialog Width="250px" @bind-Visible="@IsVisible" IsModal="true">
+<SfDialog Width="250px" @bind-Visible="@IsVisible" IsModal="true" ShowCloseIcon="true">
     <DialogTemplates>
+        <Header>
+            Dialog Header
+        </Header>
         <Content>
             <div class="dialogContent"></div>
             <span class="dialogText">@DialogText</span>
@@ -12,7 +15,7 @@
     </DialogTemplates>
     <DialogButtons>
         <DialogButton OnClick="@OnDialogBtnClick">
-            <DialogButtonModel Content="Ok" IsPrimary="true"></DialogButtonModel>
+            <DialogButtonModel Content="OK" IsPrimary="true"></DialogButtonModel>
         </DialogButton>
     </DialogButtons>
 </SfDialog>
