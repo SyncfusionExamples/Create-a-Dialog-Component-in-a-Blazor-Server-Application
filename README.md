@@ -2,7 +2,7 @@
 
 This is a quick-start project provided by Syncfusion that helps you create a Blazor Dialog. This example explains how to create a Blazor application and add the Syncfusion Blazor package. It also shows how to add the Syncfusion Blazor Dialog component to the Blazor server application and demonstrates how to render a Dialog with the Ok button, display a modal Dialog and render the Dialog content using HTML.
 
-Watch a How-to Video:
+Watch a How-to Video: https://www.syncfusion.com/tutorial-videos/blazor/dialog?title=create-a-dialog-component-in-a-blazor-server-application
 
 Documentation: https://blazor.syncfusion.com/documentation/dialog/getting-started
 
