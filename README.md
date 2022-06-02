@@ -34,7 +34,7 @@ This package contains the [Blazor Dialog Component](https://www.syncfusion.com/b
 
 [Documentation](https://blazor.syncfusion.com/documentation/dialog/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/dialog/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/Create-a-Dialog-Component-in-a-Blazor-Server-Application?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples)
 
