@@ -24,6 +24,19 @@ This package contains the [Blazor Dialog Component](https://www.syncfusion.com/b
 * For queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github) or post the queries through the [community forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github). 
 * Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github).
 
+## Features and Benefits
+
+## Action buttons
+
+The Blazor dialog component provides built-in support to perform actions using buttons, which define necessary callback functions to handle user input.
+
+## Positioning
+
+Users can position a Blazor dialog wherever they want on a page. It is easy to configure this through built-in positions or any custom axis value (for example, top left, bottom right, top right, bottom left, 100 75, etc.).
+## Animation
+
+A variety of smooth, built-in animations are available to configure the opening and closing of modal dialogs. The Blazor Dialog animates based on CSS3 animation from the Animation library.
+
 ## Related links
 
 [Learn More about Blazor Dialog](https://www.syncfusion.com/blazor-components/blazor-dialog?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples)
