@@ -11,11 +11,7 @@ Make sure that you have compatible versions of .NET Core on your machine before 
 To run this application, you need to first clone or download this ‘Create a Dialog Component in a Blazor Server Application’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
 
 ## Further help
-
-### Support and feedbacks
-
-* For queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples) or post the queries through the [community forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples). 
-* Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples).
+For more help, check the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
 
 ## Features and Benefits
 
