@@ -1,4 +1,4 @@
-@page "/"
+﻿@page "/"
 @using Syncfusion.Blazor.Popups 
 @using Syncfusion.Blazor.Buttons 
 
@@ -14,8 +14,7 @@
         </Content>
     </DialogTemplates>
     <DialogButtons>
-        <DialogButton OnClick="@OnDialogBtnClick">
-            <DialogButtonModel Content="OK" IsPrimary="true"></DialogButtonModel>
+        <DialogButton OnClick="@OnDialogBtnClick" Content="Ok" IsPrimary="true">
         </DialogButton>
     </DialogButtons>
 </SfDialog>
