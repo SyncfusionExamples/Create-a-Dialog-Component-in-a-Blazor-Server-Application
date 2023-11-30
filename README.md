@@ -2,13 +2,16 @@
 
 The [Blazor Dialog Component](https://www.syncfusion.com/blazor-components/blazor-dialog?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples) is a useful user interface (UI) component for informing users about critical information, errors, warnings, and questions, as well as confirming decisions and collecting input from users. This is a quick-start project provided by Syncfusion that helps you create a Blazor Dialog. This example explains how to create a Blazor application and add the Syncfusion Blazor package. It also shows how to add the Syncfusion Blazor Dialog component to the Blazor server application and demonstrates how to render a Dialog with the Ok button, display a modal Dialog and render the Dialog content using HTML.
 
-## Project prerequisites
-Make sure that you have compatible versions of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2019 (version 16.4+)]( https://visualstudio.microsoft.com/downloads)
-* [.NET Core SDK 3.1.201+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone or download this ‘Create a Dialog Component in a Blazor Server Application’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 For more help, check the [ASP.NET Core Blazor documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0).
